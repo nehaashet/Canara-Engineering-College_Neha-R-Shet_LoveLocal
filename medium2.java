@@ -1,3 +1,4 @@
+//input format example "n=3, arr=[3,2,3]"//
 import java.util.*;
 class Main{
     public static void main(String[] args){
