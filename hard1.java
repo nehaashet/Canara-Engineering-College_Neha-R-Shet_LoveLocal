@@ -1,3 +1,4 @@
+//input format example "n=8, arr=[1,3,-1,-3,5,3,6,7], k=3"//
 import java.util.*;
 import java.lang.Math;
 class Main{
