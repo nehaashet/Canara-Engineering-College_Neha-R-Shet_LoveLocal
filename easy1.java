@@ -1,3 +1,4 @@
+//input format example "Hello World"//
 import java.util.*;
 class HelloWorld {
     public static void main(String[] args) {
